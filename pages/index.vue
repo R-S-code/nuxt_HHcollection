@@ -1,10 +1,6 @@
 <template>
   <div>
-    <Header/>
-    <main>
-      <Main />
-    </main>
-    <Footer/>
+    <Main/>
   </div>
 </template>
 
